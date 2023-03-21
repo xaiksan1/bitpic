@@ -7,6 +7,6 @@
   "license": "ISC",
   "dependencies": {
     "bpu": "0.0.8",
-    "bsv": "^1.0.0"
+    "bsv": "^1.5.6"
   }
 }
