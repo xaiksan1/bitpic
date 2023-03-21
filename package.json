@@ -6,7 +6,7 @@
   "author": "unwriter@protonmail.com",
   "license": "ISC",
   "dependencies": {
-    "bpu": "0.0.8",
+    "bpu": "0.0.13",
     "bsv": "^1.0.0"
   }
 }
